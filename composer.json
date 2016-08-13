@@ -1,0 +1,16 @@
+{   
+    "name": "tonjoo/tiga-themes-api",
+    "autoload": 
+    {
+        "classmap": 
+        [
+            "app\/Controllers",
+            "app\/Models"
+        ],
+        "files":
+        [
+            "src/tigaaisthemesapi-helper.php"
+        ]
+
+    }
+}
